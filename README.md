@@ -1,1 +1,1 @@
-# DataStructuresCourse
+# DataStructures_proj1
