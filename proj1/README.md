@@ -4,8 +4,7 @@
 This project is a comprehensive implementation of the AVL Tree, a self-balancing binary search tree. Developed as part of Tel Aviv University Data Structures course, this project showcases the intricacies and functionalities of AVL Trees.
 
 ## Authors
-Yoav Shkedy
-Ofek Levi
+Yoav Shkedy and Ofek Levi
 
 ## Purpose
 AVL Trees are renowned for their ability to maintain balance, ensuring that operations like insertion, deletion, and lookup can be performed in logarithmic time. The AVLTreeList project encapsulates this principle, providing a robust data structure that automatically balances itself to optimize operations.
