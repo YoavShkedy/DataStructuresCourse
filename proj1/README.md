@@ -1,4 +1,4 @@
-# AVLTreeList Project
+# AVLTreeList
 
 ## Overview
 This project is a comprehensive implementation of the AVL Tree, a self-balancing binary search tree. Developed as part of Tel Aviv University Data Structures course, this project showcases the intricacies and functionalities of AVL Trees.
